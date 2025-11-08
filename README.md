@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vivek Boddul !
 
-🎓 I'm currently a B.Tech student  in **Computer Science & Engineering (Data Science)**.  
+🎓 I'm currently a B.Tech Final student  in **Computer Science & Engineering (Data Science)**.  
 💡 Passionate about solving real-world problems through **Data Science**.  
 🚀 On a journey to become a **Data Scientist**.
 
@@ -20,7 +20,10 @@
   `Python` | `NumPy` | `Pandas` | `Matplotlib` | `Seaborn`
 
 - **Databases**  
-  `SQL` | `MySQL`
+  `SQL` | `MySQL` 
+
+- **Tools**
+  `PowerBI` | `Jupyter Notebook` 
 ---
 
 ## 📌 Current Goals
