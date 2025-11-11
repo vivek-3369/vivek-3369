@@ -23,7 +23,7 @@
   `SQL` | `MySQL` 
 
 - **Tools**
-  `PowerBI` | `Jupyter Notebook` 
+ `PowerBI` | `Jupyter Notebook` 
 ---
 
 ## 📌 Current Goals
