@@ -22,8 +22,8 @@
 - **Databases**  
   `SQL` | `MySQL` 
 
-- **Tools**
- `PowerBI` | `Jupyter Notebook` 
+- **Tools**  
+  `PowerBI` | `Jupyter Notebook` | `Visual Studio Code`
 ---
 
 ## 📌 Current Goals
