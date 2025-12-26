@@ -17,13 +17,13 @@
 ## 🛠️ Skills & Tools
 
 - **Languages & Libraries**  
-  `Python` | `NumPy` | `Pandas` | `Matplotlib` | `Seaborn`
+  `Python` | `NumPy` | `Pandas` | `Matplotlib` | `Seaborn` | `Scikit-Learn`
 
 - **Databases**  
-  `SQL` | `MySQL` 
+  `SQL` | `MySQL` | `PostgreSQL`
 
 - **Tools**  
-  `PowerBI` | `Jupyter Notebook` | `Visual Studio Code`
+  `PowerBI` | `Jupyter Notebook` | `Visual Studio Code` | `Google Colab`
 ---
 
 ## 📌 Current Goals
